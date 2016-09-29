@@ -2,9 +2,12 @@
 /**
  * An ArrayList that represent a Deck of CardsDeck.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Jonathan Jahnke 
+ * @version September 29, 2016
  */
+
+// making changes on github online
+
 import java.util.List;
 import java.util.ArrayList;
 
